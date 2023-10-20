@@ -1,0 +1,22 @@
+.sidenav {
+    background-color: #3F51B5;
+    width: 200px;
+}
+
+.nav-list a {
+    height: 70px;
+}
+
+.nav-list a span {
+    color: #FFF;
+}
+
+.nav-list a i {
+    color: #FFF;
+    margin: 20px;
+}
+
+.content {
+    padding: 16px;
+    background-color: #FFF;
+}
